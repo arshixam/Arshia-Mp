@@ -2,7 +2,7 @@
 <h3>👨🏻‍💻 &nbsp;About Me </h3>
 
 💻 &nbsp; Verified Discord Developer\
-☄️ &nbsp;My discord username is Arshia#9402\
+☄️ &nbsp; Discord Username : Arshia#9402\
 
 
 <h3>🛠️ &nbsp;My Tools and Languages </h3>
