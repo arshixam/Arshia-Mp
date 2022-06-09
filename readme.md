@@ -18,8 +18,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/esdzUXWugu" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/arshia-mp"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-<a href="https://instagram.com/khodeeamp"><img alt="Instagram" height:"32" width:"32"
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg"></a>nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/khodeeamp" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <img src="https://discord.c99.nl/widget/theme-1/696605232372908032.png" >
