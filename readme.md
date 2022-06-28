@@ -1,7 +1,7 @@
 <h2>👋 &nbsp;Hey there! I'm Arshia</h2>
 <h3>👨🏻‍💻 &nbsp;About Me </h3>
 
-💻 &nbsp; Verified Discord Developer
+💻 &nbsp; Verified Discord Bot Developer
 
 
 
